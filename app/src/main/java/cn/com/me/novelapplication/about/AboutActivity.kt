@@ -1,4 +1,4 @@
-package cn.com.me.novelapplication
+package cn.com.me.novelapplication.about
 
 import android.content.Intent
 import android.net.Uri
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.MenuItem
 import android.view.View
+import cn.com.me.novelapplication.R
 import kotlinx.android.synthetic.main.activity_about.*
 
 class AboutActivity : AppCompatActivity() {

@@ -13,6 +13,11 @@
     <string name="about_link">相关链接</string>
     <string name="link_info">www.baidu.com</string>
 
-    <string name="link_two">我的Github主页\n https://github.com/friends110110 </string>
-    <string name="link_three">我的Github Pages\n  </string>
+    <string name="link_two">我的Github主页\n https://github.com/friends110110</string>
+    <string name="link_three">我的Github Pages\n</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
