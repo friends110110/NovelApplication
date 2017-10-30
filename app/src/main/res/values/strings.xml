@@ -2,7 +2,7 @@
     <string name="app_name">NovelApplication</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_novel_list">书架列表</string>
     <string name="title_notifications">Notifications</string>
     <string name="action_about">About</string>
     <string name="title_about_name">关于界面</string>
